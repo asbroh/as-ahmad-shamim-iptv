@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer TV stand -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M46,75 L62,75 L54,64 Z" />
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M38,75 L70,75 L70,77 L38,77 Z" />
+
+    <!-- Rounded TV Frame -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M30,30 C26,30 24,32 24,36 L24,60 C24,64 26,66 30,66 L78,66 C82,66 84,64 84,60 L84,36 C84,32 82,30 78,30 Z" />
+
+    <!-- Inner Screen Mask -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M32,32 C30,32 29,33 29,35 L29,57 C29,59 30,60 32,60 L76,60 C78,60 79,59 79,57 L79,35 C79,33 78,32 76,32 Z" />
+
+    <!-- Play Arrow Symbol Inside Screen -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M48,40 L64,48 L48,56 Z" />
+        
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "AS AHMAD SHAMIM- IPTV",
+  "description": "Premium IPTV live TV streaming and channels player with list, search, filters, favorites, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
